@@ -28,7 +28,7 @@
   <li>Python - Synology DownloadStation Client / <a href="https://github.com/yymin1022/Synology_DownloadStation_Client" target="_sub">소스코드</a></li>
   <li>Python - Telegram Chat Bot for CAU Meal Noti / <a href="https://github.com/yymin1022/CAU_Meal_Bot_Telegram" target="_sub">소스코드</a></li>
   <li>Python Flask - Def:Con Web / <a href="https://defcon.or.kr" target="_sub">상세보기</a> / <a href="https://github.com/yymin1022/DefCon_Server" target="_sub">소스코드</a></li>
-  <li>...more on my <a href="https://github.com/yymin1022" target="_sub">Github</a></li>
+  <li>...more on my <a href="https://github.com/yymin1022" target="_sub">Github</a>!</li>
 </ul>
 
 <hr/>
