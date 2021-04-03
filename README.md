@@ -35,8 +35,8 @@
 
 <h3>Developed Applications</h3>
 <ul>
-  <li>Always On Display / <a href="https://app.defcon.or.kr/download-always-on-display" target="_sub">상세보기</a> / <a href="https://github.com/yymin1022/AlwaysOnDisplay" target="_sub">소스코드보기</a></li>
-  <li>Taxi Meter / <a href="https://app.defcon.or.kr/download-taxi-meter" target="_sub">상세보기</a> / <a href="https://github.com/yymin1022/Taxi-Meter" target="_sub">소스코드보기</a></li>
+  <li>Always On Display / <a href="https://app.defcon.or.kr/download-always-on-display" target="_sub">상세보기</a> / <a href="https://github.com/yymin1022/AlwaysOnDisplay" target="_sub">소스코드</a></li>
+  <li>Taxi Meter / <a href="https://app.defcon.or.kr/download-taxi-meter" target="_sub">상세보기</a> / <a href="https://github.com/yymin1022/Taxi-Meter" target="_sub">소스코드</a></li>
 </ul>
 
 <hr/>
