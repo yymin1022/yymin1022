@@ -2,9 +2,9 @@
 
 <h3>Who am I?</h3>
 <ul>
-  <li>중앙대학교 소프트웨어학부</li>
+  <li>중앙대학교 소프트웨어학부 19학번</li>
   <li>대학생 1인 개발자</li>
-  <li>대한민국 공군 ROKAF 체계운영병</li>
+  <li>대한민국 공군 ROKAF 병 819기 체계운영병</li>
   <li><a href="https://defcon.or.kr" target="_sub">Def:Con</a> - 대학생 프로그래밍 팀</li>
 </ul>
 
@@ -50,6 +50,7 @@
   <li>Java : Console / Swing GUI</li>
   <li>Linux : Apache2 Hosting / Kernel Build / OS Management / Server Management</li>
   <li>Python : Console / QT GUI / Telegram Bot</li>
+  <li>React.js : Studying</li>
   <li>Web : HTML (But it is not Programming) / JS / php / Python Flask</li>
 </ul>
 
@@ -69,13 +70,10 @@
 <hr/>
 
 <h3>Contact Me Online</h3>
-
-<a href="https://github.com/yymin1022" target="_sub">Github</a>
-<br/>
-<a href="https://play.google.com/store/apps/developer?id=Dev.+LR" target="_sub">Google Play</a>
-<br/>
-<a href="https://www.facebook.com/profile.php?id=100007285635473" target="_sub">Facebook</a>
-<br/>
-<a href="https://instagram.com/useful_min" target="_sub">Instagram</a>
-<br/>
-<a href="https://twitter.com/yymin1022" target="_sub">Twitter</a>
+<ul>
+  <li><a href="https://github.com/yymin1022" target="_sub">Github</a></li>
+  <li><a href="https://play.google.com/store/apps/developer?id=Dev.+LR" target="_sub">Google Play</a></li>
+  <li><a href="https://www.facebook.com/profile.php?id=100007285635473" target="_sub">Facebook</a></li>
+  <li><a href="https://instagram.com/useful_min" target="_sub">Instagram</a></li>
+  <li><a href="https://twitter.com/yymin1022" target="_sub">Twitter</a></li>
+</ul>
