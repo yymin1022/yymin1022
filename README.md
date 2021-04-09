@@ -4,7 +4,7 @@
 <ul>
   <li>중앙대학교 소프트웨어학부 19학번</li>
   <li>대학생 1인 개발자</li>
-  <li>대한민국 공군 ROKAF 병 819기 체계운영병</li>
+  <li>대한민국 공군 ROKAF 병 819기 병</li>
   <li><a href="https://defcon.or.kr" target="_sub">Def:Con</a> - 대학생 프로그래밍 팀</li>
 </ul>
 
