@@ -1,5 +1,7 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=yymin1022&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyymin1022&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 <h3>Who am I?</h3>
 <ul>
   <li>중앙대학교 소프트웨어학부 19학번</li>
