@@ -6,6 +6,7 @@
  - 중앙대학교 소프트웨어학부 19학번
  - 대학생 1인 개발자
  - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) 체계운영병 / 정비통제병
+ - [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
  - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
 
 ---
