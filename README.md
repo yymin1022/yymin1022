@@ -60,8 +60,8 @@
  - PC : Ubuntu 20.04 LTS on LG Gram15 2019 with i5 8265u / DDR4 16GB / 512GB NVMe + 256GB SATA
  - NAS : XPEnology 6.2.3 on ODroid H2 with Celeron J4105 / DDR4 16GB / 128GB NVMe + 7TB HDD + 16GB eMMC
  - Phone : Main with Google Pixel 4XL with Android 12<br/>
-  Sub with Apple iPhone X with iOS 14
- - Tablet : Apple iPad Pro 11" 2nd with iPadOS 14<br/>
+  Sub with Apple iPhone X with iOS 15
+ - Tablet : Apple iPad Pro 11" 2nd with iPadOS 15<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
  - Watch : LG Watch W7 with WearOS 2.0
 
