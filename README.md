@@ -7,7 +7,7 @@
 ### Who am I?
  - 중앙대학교 소프트웨어학부 19학번
  - 대학생 1인 개발자
- - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) 체계운영병 / 정비통제병
+ - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병
  - [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
  - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
 
@@ -26,9 +26,9 @@
  - Flutter : Studying
  - Java : Console / Swing GUI
  - Linux : Apache2 Hosting / Kernel Build / OS Management / Server Management
- - Python : Console / Discord Bot / QT GUI / Telegram Bot
+ - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
  - React.js : CSR Web Page
- - Web : HTML (But it is not Programming) / JS / php / Python Flask / Restful API
+ - Web : HTML (But it is not Programming) / JS / php / Python Flask / React.JS / Restful API
 
 ---
 
@@ -38,9 +38,18 @@
 
 ---
 
+### Developed Web Pages
+ - [CECOM(중앙대학교 컴퓨터 하드웨어 중앙동아리)](https://cecom.dev) - React.JS(Front) / Flask(Back)
+ - [Def:Con(대학생 프로그래밍 팀)](https://defcon.or.kr) - React.JS
+ - [Dev. LR Blog](https://dev-lr.com) - React.JS
+
+---
+
 ### Other Projects
+ - Android - Always On Display / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
  - Android - Screen Saver / [소스코드](https://github.com/yymin1022/ScreenSaver)
  - Android - Soul Rest / [소스코드](https://github.com/yymin1022/SeoulHealing)
+ - Android - Taxi Meter / [소스코드](https://github.com/yymin1022/Taxi-Meter)
  - Android - Why Are You Here / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
  - Android Porting - LG G5 Launcher / [소스코드](https://github.com/yymin1022/G5_Launcher)
  - Android Porting - LG G5 Live Wallpaper / [소스코드](https://github.com/yymin1022/G5_LiveWallpapers)
@@ -49,11 +58,16 @@
  - Arduino && Android - Pedetector / [소스코드](https://github.com/yymin1022/Pedetector)
  - Arduino && Android - RemoteFinder / [소스코드](https://github.com/yymin1022/RemoteFinder)
  - Java - STONE Manager for Windows / [소스코드](https://github.com/yymin1022/StoneManager_JAVA)
+ - Python - Discord Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Discord)
  - Python - Synology DownloadStation Client / [소스코드](https://github.com/yymin1022/Synology_DownloadStation_Client)
- - Python - Telegram Chat Bot for CAU Meal Noti / [소스코드](https://github.com/yymin1022/CAU_Meal_Bot_Telegram)
+ - Python - Telegram Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Telegram)
  - Python - Telegram Chat Bot for Kakao Emoticon 2 Telegram Sticker Converter / [소스코드](https://github.com/yymin1022/KakaoEmoticon2TelegramSticker)
+ - Python Flask - CECOM Web Back-End / [소스코드](https://github.com/yymin1022/CECOM-Web_Back)
  - Python Flask - Def:Con Web(Old) / [소스코드](https://github.com/yymin1022/DefCon_Server)
  - Python Flask - Wa... API Server / [소스코드](https://github.com/yymin1022/Wa_API)
+ - React.JS - CECOM Web Front-End / [소스코드](https://github.com/yymin1022/CECOM-Web_Front)
+ - React.JS - Def:Con Web(New) / [소스코드](https://github.com/yymin1022/DefCon_Server)
+ - React.JS - Dev. LR Blog / [소스코드](https://github.com/yymin1022/Blog_LR)
  - ...more on my [Github](https://github.com/yymin1022)
 
 ---
@@ -64,8 +78,11 @@
  - Phone : Main with Google Pixel 4XL with Android 12<br/>
   Sub with Apple iPhone X with iOS 15
  - Tablet : Apple iPad Pro 11" 2nd with iPadOS 15<br/>
-  Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
+  Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot<br/>
+  Google Pixel C with Android 9
  - Watch : LG Watch W7 with WearOS 2.0
+
+ - ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
 
@@ -74,4 +91,5 @@
  - [Google Play](https://play.google.com/store/apps/developer?id=Dev.+LR)
  - [Facebook](https://www.facebook.com/profile.php?id=100007285635473)
  - [Instagram](https://instagram.com/useful_min)
+ - [LinkedIn](https://www.linkedin.com/in/%EC%9A%A9%EB%AF%BC-%EC%9C%A0-33992a230)
  - [Twitter](https://twitter.com/yymin1022)
