@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=대학생%201인%20개발자&descSize=20&descAlign=17&descAlignY=58&animation=twinkling)  
 
+<a href="https://opgc.me/#/users/yymin1022" target="_blank"><img src="https://api.opgc.me/githubs/users/yymin1022/tag/?theme=basic" /></a>
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=yymin1022&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/yymin1022)
