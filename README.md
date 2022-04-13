@@ -36,7 +36,7 @@
  - Node.JS : Back End Server
  - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
  - React.JS : CSR Web Page
- - Web : HTML (But it is not Programming) / JS / php / Python Flask / React.JS / Restful API
+ - Web : HTML (But it is not Programming) / JS / Node.JS / php / Python Flask / React.JS / Restful API
 
 ---
 
