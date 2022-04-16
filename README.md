@@ -28,12 +28,12 @@
 
 ### What can I do?
  - Android : Application / Kernel & OS Build / Smali Edit Porting
- - C/C++ : Console / Linux Kernel
+ - C / C++ : Console / Linux Kernel
  - Docker : Container Build & Release / Server Management
  - Flutter : Studying
  - Java : Console / Swing GUI
  - Linux : Apache2 Hosting / Kernel Build / OS Management / Server Management
- - Node.JS : Back End Server
+ - Node.JS : Back-End Server
  - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
  - React.JS : CSR Web Page
  - Web : HTML (But it is not Programming) / JS / Node.JS / php / Python Flask / React.JS / Restful API
@@ -47,9 +47,9 @@
 ---
 
 ### Developed Web Pages
- - [CECOM(중앙대학교 컴퓨터 하드웨어 중앙동아리)](https://cecom.dev) - React.JS(Front) / Flask(Back)
+ - [CECOM(중앙대학교 컴퓨터 하드웨어 중앙동아리)](https://cecom.dev) - React.JS(Front-End) / Flask(Back-End)
  - [Def:Con(대학생 프로그래밍 팀)](https://defcon.or.kr) - React.JS
- - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front) / Node.JS(Back)
+ - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front-End) / Node.JS(Back-End)
 
 ---
 
@@ -66,6 +66,8 @@
  - Arduino && Android - Pedetector / [소스코드](https://github.com/yymin1022/Pedetector)
  - Arduino && Android - RemoteFinder / [소스코드](https://github.com/yymin1022/RemoteFinder)
  - Java - STONE Manager for Windows / [소스코드](https://github.com/yymin1022/StoneManager_JAVA)
+ - Javascript - KakaoTalk Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_KakaoTalk)
+ - Node.JS - Dev. LR Blog Back-End / [소스코드](https://github.com/yymin1022/Blog_LR_Back)
  - Python - Discord Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Discord)
  - Python - Synology DownloadStation Client / [소스코드](https://github.com/yymin1022/Synology_DownloadStation_Client)
  - Python - Telegram Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Telegram)
@@ -75,7 +77,7 @@
  - Python Flask - Wa... API Server / [소스코드](https://github.com/yymin1022/Wa_API)
  - React.JS - CECOM Web Front-End / [소스코드](https://github.com/yymin1022/CECOM-Web_Front)
  - React.JS - Def:Con Web(New) / [소스코드](https://github.com/yymin1022/DefCon_Server)
- - React.JS - Dev. LR Blog / [소스코드](https://github.com/yymin1022/Blog_LR)
+ - React.JS - Dev. LR Blog Front-End / [소스코드](https://github.com/yymin1022/Blog_LR_Front)
  - ...more on my [Github](https://github.com/yymin1022)
 
 ---
