@@ -30,7 +30,7 @@
  - Android : Application / Kernel & OS Build / Smali Edit Porting
  - C / C++ : Console / Linux Kernel
  - Docker : Container Build & Release / Server Management
- - Flutter : Studying
+ - Flutter : Android Application / iOS Application / Web
  - Java : Console / Swing GUI
  - Linux : Apache2 Hosting / Kernel Build / OS Management / Server Management
  - Node.JS : Back-End Server
