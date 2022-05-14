@@ -25,7 +25,7 @@
 ---
 
 ### What can I do?
- - Android : Application / Kernel & OS Build / Smali Edit Porting
+ - Android : Application / Kernel Build / OS Build / Smali Edit Porting
  - C / C++ : Console / Linux Kernel
  - Docker : Container Build & Release / Server Management
  - Flutter : Android Application / iOS Application / Web
