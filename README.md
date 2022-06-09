@@ -11,8 +11,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyymin1022&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### Who am I?
- - 중앙대학교 소프트웨어학부 19학번
  - 대학생 1인 개발자
+ - 중앙대학교 소프트웨어학부 19학번
  - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병
  - [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
  - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
@@ -28,7 +28,7 @@
 
 ### What can I do?
  - Android : Application / Kernel Build / OS Build / Smali Edit Porting
- - C / C++ : Algorithm Problem Solving / Console / Linux Kernel
+ - C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel
  - Docker : Container Build & Release / Server Management
  - Flutter : Android Application / iOS Application / Web
  - Java : Console / Swing GUI
@@ -83,15 +83,15 @@
 ---
 
 ### Which device am I using?
- - PC : Ubuntu 20.04 LTS on LG Gram15 2019 with i5 8265u / DDR4 16GB / 512GB NVMe + 256GB SATA
- - NAS : XPEnology 6.2.3 on ODroid H2 with Celeron J4105 / DDR4 16GB / 128GB NVMe + 7TB HDD + 16GB eMMC
+ - Desktop : Intel i5-12600K / DDR4 32GB / 512GB NVME + 1TB HDD + 500GB HDD / Windows 11
+ - PC :  LG Gram15 2019 with i5-8265u / DDR4 16GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
+ - NAS : ODroid H2 with Celeron J4105 / DDR4 16GB / 128GB NVMe + 7TB HDD + 16GB eMMC / XPEnology 6.2.3
  - Phone : Main with Google Pixel 4XL with Android 12<br/>
-  Sub with Apple iPhone X with iOS 15
+  Sub with Samsung Galaxy A32 LTE with Android 12
  - Tablet : Apple iPad Pro 11" 2nd with iPadOS 15<br/>
-  Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot<br/>
-  Google Pixel C with Android 9
+  Google Pixel C with Android 12<br/>
+  Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
  - Watch : LG Watch W7 with WearOS 2.0
-
  - ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
