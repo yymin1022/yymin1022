@@ -33,9 +33,9 @@
  - Flutter : Android Application / iOS Application / Web
  - Java : Console / Swing GUI
  - Linux : Apache2 Hosting / Kernel Build / OS Management / Server Management
- - Node.JS : Back-End Server
+ - Node.JS : Back-End Server (JS / TS)
  - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
- - React.JS : CSR Web Page
+ - React.JS : CSR Web Page (JS / TS)
  - Web : HTML (But it is not Programming) / JS / Node.JS / php / Python Flask / React.JS / Restful API
 
 ---
