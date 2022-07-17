@@ -13,11 +13,14 @@
 ### Who am I?
  - 대학생 1인 개발자
  - 중앙대학교 소프트웨어학부 19학번
- - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병
  - [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
  - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
 
 ---
+
+### History
+ - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병
+
 
 ### Awards
  - 2017 STEAM R&E 한국과학창의재단 이사장상 : 보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안 / [상세보기](https://steam.kofac.re.kr/?p=11978) / [소스코드](https://github.com/yymin1022/Pedetector)
