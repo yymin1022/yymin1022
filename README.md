@@ -12,7 +12,7 @@
 
 ### Who am I?
  - 대학생 1인 개발자
- - 중앙대학교 소프트웨어학부 19학번
+ - 중앙대학교 소프트웨어학부 (2019. 3. ~ )
  - [Blog(Main)](https://dev-lr.com) / [Blog(Sub)](https://blog.naver.com/yymin1022)
  - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
 
@@ -20,6 +20,7 @@
 
 ### History
  - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병
+ - 성보고등학교 과학중점학급 졸업 (2016. 3. ~ 2019. 2.)
 
 
 ### Awards
