@@ -53,8 +53,8 @@
 ---
 
 ### Developed Web Pages
- - [CECOM(중앙대학교 컴퓨터 하드웨어 중앙동아리)](https://cecom.dev) - React.JS(Front-End) / Flask(Back-End)
- - [Def:Con(대학생 프로그래밍 팀)](https://defcon.or.kr) - React.JS
+ - [CECOM](https://cecom.dev) - React.JS(Front-End) / Flask(Back-End)
+ - [Def:Con](https://defcon.or.kr) - React.JS
  - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front-End) / Node.JS(Back-End)
 
 ---
