@@ -109,5 +109,6 @@
  - [Google Play](https://play.google.com/store/apps/developer?id=Dev.+LR)
  - [Facebook](https://www.facebook.com/profile.php?id=100007285635473)
  - [Instagram](https://instagram.com/useful_min)
+ - [KakaoTalk](https://open.kakao.com/o/sr5Chgse)
  - [LinkedIn](https://www.linkedin.com/in/%EC%9A%A9%EB%AF%BC-%EC%9C%A0-33992a230)
  - [Twitter](https://twitter.com/yymin1022)
