@@ -38,7 +38,7 @@
  - Docker : Container Build & Release / Server Management
  - Flutter : Android Application / iOS Application / Web
  - Java : Console / Swing GUI
- - Linux : Apache2 Hosting / Kernel Build / OS Management / Server Management
+ - Linux : Apache2, NginX Hosting / Kernel Build / OS Management / Server Management
  - Node.JS : Back-End Server (JS / TS)
  - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
  - React.JS : SPA CSR Web Page (JS / TS)
