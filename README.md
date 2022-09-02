@@ -2,6 +2,8 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=yymin1022&count_private=true&theme=dark)](https://github.com/yymin1022)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://git.io/streak-stats)
+
 [![My trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
 
 [<a href="https://opgc.me/#/users/yymin1022" target="_blank"><img src="https://api.opgc.me/githubs/users/yymin1022/tag/?theme=basic" /></a>](https://opgc.me/#/users/yymin1022)
