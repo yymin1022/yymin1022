@@ -59,7 +59,6 @@
 - [CECOM](https://cecom.dev) - React.JS(Front-End) / Flask(Back-End)
 - [Def:Con](https://defcon.or.kr) - React.JS
 - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front-End) / Node.JS(Back-End)
-- [ECOmunity](https://eco.defcon.or.kr) - React.JS(Front-End) / Node.JS(Back-End)
 
 ---
 
