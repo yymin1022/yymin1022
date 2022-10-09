@@ -35,7 +35,7 @@
 
 ---
 
-### Certificated
+### Certificate
 - 국가공인 리눅스마스터 2급
 
 ---
