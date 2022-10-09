@@ -35,6 +35,11 @@
 
 ---
 
+### Certificated
+- 국가공인 리눅스마스터 2급
+
+---
+
 ### What can I do?
 - Android : Application / Kernel Build / OS Build / Smali Edit Porting
 - C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel
