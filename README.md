@@ -98,17 +98,19 @@
 ---
 
 ### Which device am I using?
-- Desktop : Intel i5-12600K / DDR4 32GB / 512GB NVME + 1TB HDD + 500GB HDD / Windows 11
+- Desktop : Intel i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop : Main with Apple MacBook Air 2020 / Apple Silicon M1 / LPDDR4X 16GB / 512GB NVMe / MacOS 12 Monterey<br/>
-  Sub with LG Gram15 2019 / Intel i5-8265u / DDR4 16GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
-- NAS : ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 7TB HDD + 128GB NVMe / XPEnology 7.1.0
+  Sub with LG Gram15 2019 / Intel i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Ubuntu 20.04 LTS
+- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 7TB HDD + 128GB NVMe / XPEnology DSM 7.1.0
+  Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 1TB HDD / Synology DSM 7.1.0
 - Service Server : Intel Celeron J4125 / DDR4 16GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 4XL with Android 13<br/>
   Sub with Samsung Galaxy A32 LTE with Android 12
-- Tablet : Apple iPad Pro 11" 2nd with iPadOS 15<br/>
+- Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
   Google Pixel C with Android 12<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : LG Watch W7 with WearOS 2.0
+- Audio : Sony WF-1000XM4 / Google Pixel Buds 2nd / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
 - ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
