@@ -32,6 +32,7 @@
 - 2017 STEAM R&E 한국과학창의재단 이사장상 : 보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안 / [상세보기](https://steam.kofac.re.kr/?p=11978) / [소스코드](https://github.com/yymin1022/Pedetector)
 - 2017 서울시 앱공모전 예선 당선 : 너 왜 거기있어 - 분실물 조회 서비스 / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
 - 2019 스마트서울 모바일 앱공모전 장려상 : Soul Rest - 서울에서 소울을 힐링하다 / [소스코드](https://github.com/yymin1022/SeoulHealing)
+- 2022 중앙대학교 공학교육혁신센터 다학제 융합 (IoT 가전분야) 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상
 
 ---
 
