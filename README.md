@@ -55,7 +55,7 @@
 
 ### What can I do?
 - Android : Application / Kernel Build / OS Build / Smali Edit Porting
-- C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel
+- C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel / 42Seoul La Piscine
 - CI / CD : Build & Release Automation with Jenkins
 - Docker : Container Build & Release / Server Management
 - Flutter : Android Application / iOS Application / Web
