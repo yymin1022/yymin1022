@@ -123,7 +123,7 @@
 - Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
   Google Pixel C with Android 8<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
-- Watch : LG Watch W7 with WearOS 2.0
+- Watch : Google Pixel Watch with WearOS 3.5
 - Audio : Sony WF-1000XM4 / Google Pixel Buds 2nd / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
 - ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
