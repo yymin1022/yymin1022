@@ -39,15 +39,16 @@
 ---
 
 ### Certificate
-- 국가공인 리눅스마스터 2급
+- KAIT 국가공인 리눅스마스터 2급
+- Google Cloud Skill Boost : Kubernetes Solutions (2022. 10.)
 
 ---
 
 ### Mentoring / Study
 - Mentoring Lead
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08.
+  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ 2022. 02.
   - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01. ~ Ongoing
-  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ Ongoing
   - Python Basic - 2023. 01. ~ Ongoing
   - [HTTP](https://yymin1022.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
   - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
@@ -62,10 +63,11 @@
 - Flutter : Android Application / iOS Application / Web
 - Java : Console / Swing GUI
 - Linux : Apache2, NginX Hosting / Kernel Build / OS Management / Server Management
-- Node.JS : Back-End Server (JS / TS)
+- Next.JS : SPA SSR Web Page (JS / TS)
+- Node.JS : Express Back-End Server (JS / TS)
 - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
 - React.JS : SPA CSR Web Page (JS / TS)
-- Web : HTML (But it is not Programming) / JS / Node.JS / php / Python Flask / React.JS / Restful API
+- Web : HTML (But it is not Programming) / JS / Next.JS / Node.JS / php / Python Flask / React.JS / Restful API
 
 ---
 
@@ -76,8 +78,8 @@
 ---
 
 ### Developed Web Pages
-- [CECOM](https://cecom.dev) - React.JS(Front-End) / Flask(Back-End)
-- [Def:Con](https://defcon.or.kr) - React.JS
+- [CECOM](https://cecom.dev) - Next.JS(Front-End) / Node.JS(Back-End)
+- [Def:Con](https://defcon.or.kr) - Next.JS(Front-End) / Node.JS(Back-End)
 - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front-End) / Node.JS(Back-End)
 
 ---
@@ -96,16 +98,16 @@
 - Arduino && Android - RemoteFinder / [소스코드](https://github.com/yymin1022/RemoteFinder)
 - Java - STONE Manager for Windows / [소스코드](https://github.com/yymin1022/StoneManager_JAVA)
 - Javascript - KakaoTalk Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_KakaoTalk)
+- Next.JS - CECOM Web Front-End / [소스코드](https://github.com/CECOM-CAU/CECOM_Web_FE)
+- Next.JS - Def:Con Web Front-End / [소스코드](https://github.com/DefCon-Apps/DefCon-FE)
+- Node.JS - CECOM Web Back-End / [소스코드](https://github.com/CECOM-CAU/CECOM_Web_BE)
+- Node.JS - Def:Con Web Back-End / [소스코드](https://github.com/DefCon-Apps/DefCon-BE)
 - Node.JS - Dev. LR Blog Back-End / [소스코드](https://github.com/yymin1022/Blog_LR_Back)
 - Python - Discord Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Discord)
 - Python - Synology DownloadStation Client / [소스코드](https://github.com/yymin1022/Synology_DownloadStation_Client)
 - Python - Telegram Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Telegram)
 - Python - Telegram Chat Bot for Kakao Emoticon 2 Telegram Sticker Converter / [소스코드](https://github.com/yymin1022/KakaoEmoticon2TelegramSticker)
-- Python Flask - CECOM Web Back-End / [소스코드](https://github.com/yymin1022/CECOM-Web_Back)
-- Python Flask - Def:Con Web(Old) / [소스코드](https://github.com/yymin1022/DefCon_Server)
 - Python Flask - Wa... API Server / [소스코드](https://github.com/yymin1022/Wa_API)
-- React.JS - CECOM Web Front-End / [소스코드](https://github.com/yymin1022/CECOM-Web_Front)
-- React.JS - Def:Con Web(New) / [소스코드](https://github.com/yymin1022/DefCon_Server)
 - React.JS - Dev. LR Blog Front-End / [소스코드](https://github.com/yymin1022/Blog_LR_Front)
 - ...more on my [Github](https://github.com/yymin1022)
 
