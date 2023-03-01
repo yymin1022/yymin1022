@@ -86,6 +86,7 @@
 ---
 
 ### Other Projects
+- Android - 중앙대학교 서울캠퍼스 107관(학생회관) 건물안내 키오스크 / [소스코드](https://github.com/yymin1022/CAUKiosk_107)
 - Android - Always On Display / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
 - Android - Screen Saver / [소스코드](https://github.com/yymin1022/ScreenSaver)
 - Android - Soul Rest / [소스코드](https://github.com/yymin1022/SeoulHealing)
