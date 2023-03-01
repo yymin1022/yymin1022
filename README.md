@@ -121,7 +121,7 @@
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
   Sub with Samsung Galaxy A32 LTE with Android 13
 - Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
-  Google Pixel C with Android 12<br/>
+  Google Pixel C with Android 8<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : LG Watch W7 with WearOS 2.0
 - Audio : Sony WF-1000XM4 / Google Pixel Buds 2nd / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
