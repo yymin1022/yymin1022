@@ -118,7 +118,7 @@
 - NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS + 128GB NVMe / XPEnology DSM 7.1.1<br/>
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 1TB HDD / Synology DSM 7.1.1
 - Service Server : Intel Celeron J4125 / DDR4 16GB / 250GB SATA SSD / ESXi 6.7.0
-- Phone : Main with Google Pixel 6 Pro with Android 13<br/>
+- Phone : Main with Google Pixel 6 Pro with Android 14<br/>
   Sub with Samsung Galaxy A32 LTE with Android 13
 - Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
   Google Pixel C with Android 12<br/>
