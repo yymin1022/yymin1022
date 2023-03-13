@@ -6,6 +6,8 @@
 
 [![My trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
 
+[![yonyoo's 42 stats](https://badge42.vercel.app/api/v2/clf70q4an00920fmdpwjuw6kl/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+
 [<a href="https://opgc.me/#/users/yymin1022" target="_blank"><img src="https://api.opgc.me/githubs/users/yymin1022/tag/?theme=basic"/></a>](https://opgc.me/#/users/yymin1022)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
