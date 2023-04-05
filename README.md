@@ -8,8 +8,6 @@
 
 [![yonyoo's 42 stats](https://badge42.vercel.app/api/v2/clf70q4an00920fmdpwjuw6kl/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
-[<a href="https://opgc.me/#/users/yymin1022" target="_blank"><img src="https://api.opgc.me/githubs/users/yymin1022/tag/?theme=basic"/></a>](https://opgc.me/#/users/yymin1022)
-
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyymin1022&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/yymin1022)
