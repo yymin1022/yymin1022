@@ -21,7 +21,7 @@
 - [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
 - CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀
-- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University (2기 CoreMember)
+- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University (2기 Core Member)
 - [SKT DEVOCEAN](https://devocean.sk.com) - DEVOCEAN YOUNG 2기 (2023)
 
 ---
