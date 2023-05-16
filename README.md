@@ -14,6 +14,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyymin1022&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/yymin1022)
 
+---
+
 ### Who am I?
 - 대학생 1인 개발자
 - 중앙대학교 소프트웨어학부 (2019. 3. ~)
