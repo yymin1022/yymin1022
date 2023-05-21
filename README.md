@@ -125,9 +125,9 @@
 - Desktop : Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop : Main with Apple MacBook Air 2020 / Apple Silicon M1 / LPDDR4X 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
   Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
-- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS + 128GB NVMe / XPEnology DSM 7.1.1<br/>
+- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.1.1<br/>
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 1TB HDD / Synology DSM 7.1.1
-- Service Server : Intel Celeron J4125 / DDR4 16GB / 250GB SATA SSD / ESXi 6.7.0
+- Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
   Sub with Samsung Galaxy A32 LTE with Android 13
 - Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
