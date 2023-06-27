@@ -6,11 +6,11 @@
 
 [![My trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
 
-[![yonyoo's 42 stats](https://badge42.vercel.app/api/v2/clf70q4an00920fmdpwjuw6kl/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+[![yonyoo's 42 Stats](https://badge42.vercel.app/api/v2/clf70q4an00920fmdpwjuw6kl/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
 
-[![committers.top badge](https://user-badge.committers.top/south_korea_public/yymin1022.svg)](https://user-badge.committers.top/south_korea_public/yymin1022)
+[![committers.top Badge](https://user-badge.committers.top/south_korea_public/yymin1022.svg)](https://user-badge.committers.top/south_korea_public/yymin1022)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyymin1022&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/yymin1022)
 
@@ -123,7 +123,7 @@
 
 ### Which device am I using?
 - Desktop : Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
-- Laptop : Main with Apple MacBook Air 2020 / Apple Silicon M1 / LPDDR4X 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
+- Laptop : Main with Apple MacBook Pro 2023 / Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
   Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
 - NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.1.1<br/>
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 1TB HDD / Synology DSM 7.1.1
