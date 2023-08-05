@@ -71,6 +71,7 @@
 - Docker : Container Build & Release / Server Management
 - Flutter : Android Application / iOS Application / Mac Application / Web / Windows Program
 - Java : Console / Swing GUI
+- Kotlin : Android Application
 - Linux : Apache2, NginX Hosting / Kernel Build / OS Management / Server Management
 - Next.JS : SPA SSR Web Page (JS / TS)
 - Node.JS : Express Back-End Server (JS / TS)
