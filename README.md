@@ -45,8 +45,9 @@
 ---
 
 ### Certificate
-- KAIT 국가공인 리눅스마스터 2급
 - Google Cloud Skill Boost : Kubernetes Solutions (2022. 10.)
+- KAIT 국가공인 리눅스마스터 2급 (2022. 10.)
+- TOPCIT 소프트웨어 역량 검정 Level 3 (2023. 06.)
 
 ---
 
