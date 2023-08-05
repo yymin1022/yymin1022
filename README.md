@@ -54,7 +54,7 @@
 ### Mentoring / Study
 - Mentoring Lead
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08.
-  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ 2022. 02.
+  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 01. ~ 2023. 02.
   - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
   - Python Basic - 2023. 01. ~ 2023. 02.
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) + [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) from [CECOM](https://cecom.dev) - 2023. 04. ~ 2023. 06.
