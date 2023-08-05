@@ -83,7 +83,7 @@
 
 ### Developed Applications
 - Always On Display / [상세보기](https://play.google.com/store/apps/details?id=com.yong.aod) / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
-- Taxi Meter / [상세보기](https://play.google.com/store/apps/details?id=com.yong.taximeter) / [소스코드](https://github.com/yymin1022/Taxi-Meter)
+- Taxi Meter / [상세보기](https://play.google.com/store/apps/details?id=com.yong.taximeter) / [소스코드](https://github.com/yymin1022/TaxiMeter)
 
 ---
 
