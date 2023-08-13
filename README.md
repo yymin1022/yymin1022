@@ -133,7 +133,7 @@
 - Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
   Sub with Samsung Galaxy A32 LTE with Android 13
-- Tablet : Apple iPad Pro 11" 2nd with iPadOS 16<br/>
+- Tablet : Apple iPad Pro 11" 2nd with iPadOS 17<br/>
   Google Pixel C with Android 8<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : Google Pixel Watch with WearOS 3.5
