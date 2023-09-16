@@ -21,9 +21,9 @@
 - 중앙대학교 소프트웨어학부 (2019. 3. ~)
 - [42 Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
 - [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
-- CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진진 (2019. 3. ~)
+- CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Lead (2016 ~)
-- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Club Chung-Ang University 3기(23-24) Lead / 2기(22-23) CoreMember
+- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Clubs Chung-Ang University 3기(23-24) Lead / 2기(22-23) CoreMember
 - [SKT DEVOCEAN](https://devocean.sk.com) - DEVOCEAN YOUNG 2기 (2023. 3. ~)
 
 ---
