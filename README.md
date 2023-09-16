@@ -99,7 +99,7 @@
 - Android - Always On Display / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
 - Android - Screen Saver / [소스코드](https://github.com/yymin1022/ScreenSaver)
 - Android - Soul Rest / [소스코드](https://github.com/yymin1022/SeoulHealing)
-- Android - Taxi Meter / [소스코드](https://github.com/yymin1022/Taxi-Meter)
+- Android - Taxi Meter / [소스코드](https://github.com/yymin1022/TaxiMeter)
 - Android - Why Are You Here / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
 - Android Porting - LG G5 Launcher / [소스코드](https://github.com/yymin1022/G5_Launcher)
 - Android Porting - LG G5 Live Wallpaper / [소스코드](https://github.com/yymin1022/G5_LiveWallpapers)
@@ -128,11 +128,12 @@
 - Desktop : Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop : Main with Apple MacBook Pro 2023 / Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
   Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
-- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.1.1<br/>
+- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.2<br/>
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 8TB HDD / Synology DSM 7.2
+- Infra Server : ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 250GB SSD / ESXi 6.7.0
 - Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
-  Sub with Samsung Galaxy A32 LTE with Android 13
+  Sub with Samsung Galaxy A24 LTE with Android 13
 - Tablet : Apple iPad Pro 11" 2nd with iPadOS 17<br/>
   Google Pixel C with Android 8<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
