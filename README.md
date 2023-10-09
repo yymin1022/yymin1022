@@ -19,12 +19,12 @@
 ### Who am I?
 - 대학생 1인 개발자
 - 중앙대학교 소프트웨어학부 (2019. 3. ~)
-- [42 Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
+- [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
 - [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
 - CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
-- [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Lead (2016 ~)
+- [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
 - [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Clubs Chung-Ang University 3기(23-24) Lead / 2기(22-23) CoreMember
-- [SKT DEVOCEAN](https://devocean.sk.com) - DEVOCEAN YOUNG 2기 (2023. 3. ~)
+- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서DEVOCEAN YOUNG 2기 (2023. 3. ~)
 
 ---
 
@@ -152,3 +152,5 @@
 - [LinkedIn](https://www.linkedin.com/in/yymin1022)
 - [Solved.AC](https://solved.ac/yymin1022)
 - [Twitter](https://twitter.com/yymin1022)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yymin1022&bg_color=00000000)
