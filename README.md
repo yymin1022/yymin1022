@@ -24,11 +24,11 @@
 - CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
 - [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Clubs Chung-Ang University 3기(23-24) Lead / 2기(22-23) CoreMember
-- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서DEVOCEAN YOUNG 2기 (2023. 3. ~)
 
 ---
 
 ### History
+- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서DEVOCEAN YOUNG 2기 (2023. 3. ~ 2023. 11.)
 - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 (2020. 10. ~ 2022. 07.)
 - 서울 성보고등학교 과학중점학급 졸업 (2016. 3. ~ 2019. 2.)
 - 선린인터넷고등학교 정보영재교육원 수료 (2014. 3. ~ 2014. 12.)
@@ -58,6 +58,7 @@
   - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
   - Python Basic - 2023. 01. ~ 2023. 02.
   - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) + [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) from [CECOM](https://cecom.dev) - 2023. 04. ~ 2023. 06.
+  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2023. 09. ~ 2023. 11.
 - Group Study
   - [HTTP](https://yymin1022.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
   - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
