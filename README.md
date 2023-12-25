@@ -23,12 +23,12 @@
 - [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
 - CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
-- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Clubs Chung-Ang University 3기(23-24) Lead / 2기(22-23) CoreMember
+- [GDSC CAU](https://gdsc.community.dev/chungang-university/) - Google Developer Student Clubs Chung-Ang University 3기(23-24) Lead / 2기(22-23) Core
 
 ---
 
 ### History
-- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서DEVOCEAN YOUNG 2기 (2023. 3. ~ 2023. 11.)
+- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 (2023. 3. ~ 2023. 11.)
 - 대한민국 공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 (2020. 10. ~ 2022. 07.)
 - 서울 성보고등학교 과학중점학급 졸업 (2016. 3. ~ 2019. 2.)
 - 선린인터넷고등학교 정보영재교육원 수료 (2014. 3. ~ 2014. 12.)
