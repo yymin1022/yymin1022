@@ -6,8 +6,6 @@
 
 [![My trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
 
-[![yonyoo's 42 Stats](https://badge42.vercel.app/api/v2/clf70q4an00920fmdpwjuw6kl/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
-
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
 
 [![committers.top Badge](https://user-badge.committers.top/south_korea_public/yymin1022.svg)](https://user-badge.committers.top/south_korea_public/yymin1022)
