@@ -151,3 +151,5 @@
 - [LinkedIn](https://www.linkedin.com/in/yymin1022)
 - [Solved.AC](https://solved.ac/yymin1022)
 - [Twitter](https://twitter.com/yymin1022)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yymin1022&bg_color=00000000)
