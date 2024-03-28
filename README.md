@@ -19,7 +19,7 @@
 - 중앙대학교 소프트웨어학부 (2019. 3. ~)
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
 - [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
-- CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
+- [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead / 2nd(22-23) Core
 
@@ -87,8 +87,8 @@
 ---
 
 ### Developed Web Pages
-- [CECOM](https://cecom.dev) - Next.JS(Front-End) / Node.JS(Back-End)
-- [Def:Con](https://defcon.or.kr) - Next.JS(Front-End) / Node.JS(Back-End)
+- [CECOM](https://cecom.dev) - Next.JS
+- [Def:Con](https://defcon.or.kr) - Next.JS
 - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front-End) / Node.JS(Back-End)
 
 ---
@@ -108,15 +108,14 @@
 - Arduino && Android - RemoteFinder / [소스코드](https://github.com/yymin1022/RemoteFinder)
 - Java - STONE Manager for Windows / [소스코드](https://github.com/yymin1022/StoneManager_JAVA)
 - Javascript - KakaoTalk Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_KakaoTalk)
-- Next.JS - CECOM Web Front-End / [소스코드](https://github.com/CECOM-CAU/CECOM_Web_FE)
+- Next.JS - CECOM Web / [소스코드](https://github.com/CECOM-CAU/CECOM_Web)
 - Next.JS - Def:Con Web Front-End / [소스코드](https://github.com/DefCon-Apps/DefCon-FE)
-- Node.JS - CECOM Web Back-End / [소스코드](https://github.com/CECOM-CAU/CECOM_Web_BE)
 - Node.JS - Def:Con Web Back-End / [소스코드](https://github.com/DefCon-Apps/DefCon-BE)
 - Node.JS - Dev. LR Blog Back-End / [소스코드](https://github.com/yymin1022/Blog_LR_Back)
 - Python - Discord Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Discord)
 - Python - Synology DownloadStation Client / [소스코드](https://github.com/yymin1022/Synology_DownloadStation_Client)
 - Python - Telegram Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Telegram)
-- Python - Telegram Chat Bot for Kakao Emoticon 2 Telegram Sticker Converter / [소스코드](https://github.com/yymin1022/KakaoEmoticon2TelegramSticker)
+- Python - Telegram Chat Bot for Kakao Emoticon to Telegram Sticker Converter / [소스코드](https://github.com/yymin1022/KakaoEmoticon2TelegramSticker)
 - Python Flask - Wa... API Server / [소스코드](https://github.com/yymin1022/Wa_API)
 - React.JS - Dev. LR Blog Front-End / [소스코드](https://github.com/yymin1022/Blog_LR_Front)
 - ...more on my [Github](https://github.com/yymin1022)
@@ -125,19 +124,19 @@
 
 ### Which device am I using?
 - Desktop : Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
-- Laptop : Main with Apple MacBook Pro 2023 / Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe / MacOS 13 Ventura<br/>
-  Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 16GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
-- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 8TB HDD + 4TB DAS / XPEnology DSM 7.2<br/>
+- Laptop : Main with Apple MacBook Pro 2023 / Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe / MacOS 14 Sonoma<br/>
+  Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 8GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
+- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 16TB HDD + 4TB DAS / XPEnology DSM 7.2<br/>
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 8TB HDD / Synology DSM 7.2
-- Infra Server : ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 250GB SSD / ESXi 6.7.0
+- Infra Server : ODroid H2 / Intel Celeron J4105 / DDR4 16GB / 120GB SSD / ESXi 6.7.0
 - Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
 - Phone : Main with Google Pixel 6 Pro with Android 14<br/>
-  Sub with Samsung Galaxy A32 LTE with Android 13
-- Tablet : Apple iPad Pro 11" 2nd with iPadOS 17<br/>
-  Google Pixel C with Android 8<br/>
+  Sub with Samsung Galaxy S10 with Android 12
+- Tablet : Google Pixel Slate with Chrome OS<br/>
+  Apple iPad Pro 11" 2nd with iPadOS 17<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : Google Pixel Watch with WearOS 3.5
-- Audio : Sony WF-1000XM4 / Google Pixel Buds 2nd / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
+- Audio : Google Pixel Buds Pro / Sony WF-1000XM4 / / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
 - ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
