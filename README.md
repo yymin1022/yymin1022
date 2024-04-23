@@ -4,7 +4,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
 
-[![My trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
+[![My Trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=yymin1022)](https://solved.ac/profile/yymin1022)
 
