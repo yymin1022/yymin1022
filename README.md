@@ -73,7 +73,7 @@
 - Kotlin : Android Application
 - Linux : Kernel Build / OS Management / Server Management
 - Next.JS : SPA SSR Web Page (JS / TS)
-- Node.JS : Express Back-End Server (JS / TS) / More Something NPM Based
+- Node.JS : Express Back-End Server (JS / TS) / More Something with NPM Based
 - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
 - React.JS : SPA CSR Web Page (JS / TS)
 - Web : HTML (But it is not Programming) / JS / Next.JS / Node.JS / php / Python Flask / React.JS / Restful API
