@@ -18,7 +18,7 @@
 - 대학생 1인 개발자
 - 중앙대학교 소프트웨어학부 (2019. 3. ~)
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
-- [Blog (Development)](https://dev-lr.com) / [Blog(Life)](https://blog.naver.com/yymin1022)
+- [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead / 2nd(22-23) Core
@@ -71,9 +71,9 @@
 - Flutter : Android Application / iOS Application / Mac Application / Web / Windows Program
 - Java : Android Application / Console / Swing GUI
 - Kotlin : Android Application
-- Linux : Apache2, NginX Hosting / Kernel Build / OS Management / Server Management
+- Linux : Kernel Build / OS Management / Server Management
 - Next.JS : SPA SSR Web Page (JS / TS)
-- Node.JS : Express Back-End Server (JS / TS)
+- Node.JS : Express Back-End Server (JS / TS) / More Something NPM Based
 - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
 - React.JS : SPA CSR Web Page (JS / TS)
 - Web : HTML (But it is not Programming) / JS / Next.JS / Node.JS / php / Python Flask / React.JS / Restful API
