@@ -18,7 +18,7 @@
 - 대학생 1인 개발자
 - 중앙대학교 소프트웨어학부 (2019. 3. ~)
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
-- [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
+- [Blog (Development)](https://dev-lr.com) / [Blog(Life)](https://blog.naver.com/yymin1022)
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead / 2nd(22-23) Core
