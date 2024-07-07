@@ -131,12 +131,12 @@
   Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 8TB HDD / Synology DSM 7.2
 - Infra Server : ODroid H2 / Intel Celeron J4105 / DDR4 16GB / 120GB SSD / ESXi 6.7.0
 - Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
-- Phone : Main with Google Pixel 6 Pro with Android 14<br/>
+- Phone : Main with Google Pixel 8 Pro with Android 14<br/>
   Sub with Samsung Galaxy S10 with Android 12
 - Tablet : Google Pixel Slate with Chrome OS<br/>
-  Apple iPad Pro 11" 2nd with iPadOS 17<br/>
+  Apple iPad Pro 11" 2nd with iPadOS 18<br/>
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
-- Watch : Google Pixel Watch with WearOS 3.5
+- Watch : Google Pixel Watch with WearOS 4.0
 - Audio : Google Pixel Buds Pro / Sony WF-1000XM4 / / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
 - ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
