@@ -1,8 +1,8 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=대학생%201인%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=yymin1022&count_private=true&show_icons=true&theme=dark)](https://github.com/yymin1022)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=yymin1022&count_private=true&show_icons=true&theme=dark)](https://github.com/yymin1022)
 
 [![My Trophy](https://github-profile-trophy.vercel.app/?username=yymin1022&theme=darkhub&column=4&margin-w=10&margin-h=10)](https://github.com/yymin1022)
 
@@ -20,12 +20,13 @@
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
 - [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
-- [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead / 2nd(22-23) Core
 
 ---
 
 ### History
+- [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
 - [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동 수료 (2023. 3. ~ 2023. 11.)
+- [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 2nd(22-23) Core Member (2022. 09. ~ 2023. 06.)
 - 대한민국공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 병장 만기전역 (2020. 10. ~ 2022. 07.)
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~ 2024. 7.)
 - 서울 성보고등학교 과학중점학급 졸업 (2016. 3. ~ 2019. 2.)
