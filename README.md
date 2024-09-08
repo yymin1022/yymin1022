@@ -25,6 +25,7 @@
 ---
 
 ### History
+- [Geeks Loft](https://www.geeksloft.com/) - Android 개발 수습연구원 (2024. 07. ~ 2024. 08.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
 - [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동 수료 (2023. 3. ~ 2023. 11.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 2nd(22-23) Core Member (2022. 09. ~ 2023. 06.)
