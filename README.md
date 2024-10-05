@@ -42,7 +42,7 @@
 - 2019 스마트서울 모바일 앱공모전 장려상 : Soul Rest - 서울에서 소울을 힐링하다 / [소스코드](https://github.com/yymin1022/SeoulHealing)
 - 2021 대한민국 공군 ROKAF 사이버전사 경연대회 10등 / 75명
 - 2022 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : BeIoT - 비 IoT 가전의 상태 모니터링을 위한 통합 환경 개발
-- 2024 중앙대학교 LINC+ 캡스톤디자인 경진대회 SW부문 우수상 : PEEPER - 실시간 음성통화 분석을 통한 보이스피싱 탐지 서비스 / [상세보기](https://github.com/orgs/Peeper-CAU/repositories)
+- 2024 중앙대학교 LINC+ 캡스톤디자인 경진대회 SW부문 우수상 : PEEPER - 실시간 음성통화 분석을 통한 보이스피싱 탐지 서비스 / [상세보기](https://github.com/orgs/Peeper-CAU)
 - 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : AquaMonitor - 수분 섭취량 측정 모듈러 코스터
 
 ---
