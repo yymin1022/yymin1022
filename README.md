@@ -20,7 +20,7 @@
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
 - [Blog](https://dev-lr.com) / [Blog(Legacy)](https://blog.naver.com/yymin1022)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016 ~)
-- [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 4th(24-25) Core Member (2024. 09. ~ )
+- [GDG on Campus CAU](https://gdsc-cau.com) - Google Developer Groups on Campus Chung-Ang University 4th(24-25) Team Member (2024. 09. ~ )
 
 ---
 
