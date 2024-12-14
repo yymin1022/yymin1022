@@ -67,16 +67,15 @@
 ---
 
 ### What can I do?
-- Android : Application / Kernel Build / OS Build / Smali Edit Porting
-- C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / Linux Kernel
+- Android : Application / Kernel Build / OS Build / Smali Porting
+- C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / C++ QT GUI
 - CI / CD : Build & Release Automation with Jenkins
 - Docker : Container Build & Release / Server Management
 - Flutter : Android Application / iOS Application / Mac Application / Web / Windows Program
-- Java : Android Application / Console / Swing GUI
-- Kotlin : Android Application
-- Linux : Kernel Build / OS Management / Server Management
+- Java / Kotlin : Android Application / Console / Swing GUI
+- Linux : Kernel Build / Server Management / System Management
 - Next.JS : SPA SSR Web Page (JS / TS)
-- Node.JS : Express Back-End Server (JS / TS) / More Something with NPM Based
+- Node.JS : Express Server (JS / TS) / Anything based on NPM
 - Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
 - React.JS : SPA CSR Web Page (JS / TS)
 - Web : HTML (But it is not Programming) / JS / Next.JS / Node.JS / php / Python Flask / React.JS / Restful API
