@@ -146,11 +146,10 @@
 ### Contact Me Online
 - [Github](https://github.com/yymin1022)
 - [Google Play](https://play.google.com/store/apps/developer?id=Dev.+LR)
-- [Facebook](https://www.facebook.com/profile.php?id=100007285635473)
 - [Instagram](https://instagram.com/useful_min)
 - [KakaoTalk](https://open.kakao.com/o/sr5Chgse)
 - [LinkedIn](https://www.linkedin.com/in/yymin1022)
 - [Solved.AC](https://solved.ac/yymin1022)
-- [Twitter](https://twitter.com/yymin1022)
+- [X(Twitter)](https://twitter.com/yymin1022)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yymin1022&bg_color=00000000)
