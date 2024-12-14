@@ -69,14 +69,14 @@
 ### What can I do?
 - Android : Application / Kernel Build / OS Build / Smali Porting
 - C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / C++ QT GUI
-- CI / CD : Build & Release Automation with Jenkins
+- CI / CD : Build & Release Automation based on Jenkins
 - Docker : Container Build & Release / Server Management
 - Flutter : Android Application / iOS Application / Mac Application / Web / Windows Program
 - Java / Kotlin : Android Application / Console / Swing GUI
 - Linux : Kernel Build / Server Management / System Management
 - Next.JS : SPA SSR Web Page (JS / TS)
 - Node.JS : Express Server (JS / TS) / Anything based on NPM
-- Python : Console / Discord Bot / Flask Web / QT GUI / Telegram Bot
+- Python : Console / Discord Bot / Flask Server / QT GUI / Telegram Bot
 - React.JS : SPA CSR Web Page (JS / TS)
 - Web : HTML (But it is not Programming) / JS / Next.JS / Node.JS / php / Python Flask / React.JS / Restful API
 
