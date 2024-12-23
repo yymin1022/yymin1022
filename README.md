@@ -56,12 +56,12 @@
 
 ### Mentoring / Study
 - Mentoring Lead
-  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08. / 2023. 01. ~ 2023. 02. / 2023. 04. ~ 2023. 06. ([CECOM](https://cecom.dev)) / 2023. 09. ~ 2023. 11. ([CECOM](https://cecom.dev))
-  - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
-  - [Flutter](https://yymin1022.notion.site/Flutter-f1bf918f121b4367b5d3ccc61974c920?pvs=4) - 2024. 09. ~ 2024. 12. ([CECOM](https://cecom.dev))
+  - [React.JS](https://useful-min.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08. / 2023. 01. ~ 2023. 02. / 2023. 04. ~ 2023. 06. ([CECOM](https://cecom.dev)) / 2023. 09. ~ 2023. 11. ([CECOM](https://cecom.dev))
+  - [Node.JS](https://useful-min.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
+  - [Flutter](https://useful-min.notion.site/Flutter-f1bf918f121b4367b5d3ccc61974c920?pvs=4) - 2024. 09. ~ 2024. 12. ([CECOM](https://cecom.dev))
   - Python Basic - 2023. 01. ~ 2023. 02.
 - Group Study
-  - [HTTP](https://yymin1022.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
+  - [HTTP](https://useful-min.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
   - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
 
 ---
@@ -139,7 +139,7 @@
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : Google Pixel Watch with WearOS 5.0
 - Audio : Google Pixel Buds Pro / Sony WF-1000XM4 / / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
-- ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
+- ...more on my [Notion](https://useful-min.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
 
