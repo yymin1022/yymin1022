@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=1인%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=26&fontAlignY=35&desc=1인%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
 
