@@ -16,7 +16,7 @@
 
 ### Who am I?
 - 1인 개발자
-- [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) VLLO Android 개발자 (2025. 02. ~ )
+- [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) VLLO Android 개발자 (2025. 01. ~ )
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 03. ~ )
 - [Blog (Dev)](https://dev-lr.com) / [Blog (Life)](https://blog.naver.com/yymin1022)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016. 06. ~ )
