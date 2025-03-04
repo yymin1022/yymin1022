@@ -15,7 +15,7 @@
 ---
 
 ### Who am I?
-- 1인 개발자
+- 다양한 분야에 발을 걸쳐 T자형 인재가 되고싶은 1인 개발자
 - [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) VLLO Android 개발자 (2025. 01. ~ )
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 03. ~ )
 - [Blog (Dev)](https://dev-lr.com) / [Blog (Life)](https://blog.naver.com/yymin1022)
