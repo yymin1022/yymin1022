@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=22&fontAlignY=35&desc=대학생%201인%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=26&fontAlignY=35&desc=1인%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
 
@@ -15,11 +15,11 @@
 ---
 
 ### Who am I?
-- 대학생 1인 개발자
-- 중앙대학교 소프트웨어학부 (2019. 3. ~)
-- [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 3. ~)
+- 다양한 분야에 발을 걸쳐 T자형 인재가 되고싶은 1인 개발자
+- [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) VLLO Android 개발자 (2025. 01. ~ )
+- [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 03. ~ )
 - [Blog (Dev)](https://dev-lr.com) / [Blog (Life)](https://blog.naver.com/yymin1022)
-- [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016. 6. ~)
+- [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016. 06. ~ )
 - [GDG on Campus CAU](https://gdsc-cau.com) - Google Developer Groups on Campus Chung-Ang University 4th(24-25) DevRel Team Member (2024. 09. ~ )
 
 ---
@@ -27,12 +27,13 @@
 ### History
 - [Geeks Loft](https://www.geeksloft.com/) - Android 개발 수습연구원 (2024. 07. ~ 2024. 08.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
-- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동 수료 (2023. 3. ~ 2023. 11.)
+- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동 수료 (2023. 03. ~ 2023. 11.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 2nd(22-23) Core Member (2022. 09. ~ 2023. 06.)
 - 대한민국공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 병장 만기전역 (2020. 10. ~ 2022. 07.)
-- [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 3. ~ 2024. 7.)
-- 서울 성보고등학교 과학중점학급 졸업 (2016. 3. ~ 2019. 2.)
-- 선린인터넷고등학교 정보영재교육원 수료 (2014. 3. ~ 2014. 12.)
+- [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 03. ~ 2024. 07.)
+- 중앙대학교 소프트웨어학부 (2019. 03. ~ 2025. 02.)
+- 서울 성보고등학교 과학중점학급 졸업 (2016. 03. ~ 2019. 02.)
+- 선린인터넷고등학교 정보영재교육원 수료 (2014. 03. ~ 2014. 12.)
 
 ---
 
@@ -56,12 +57,12 @@
 
 ### Mentoring / Study
 - Mentoring Lead
-  - [React.JS](https://yymin1022.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08. / 2023. 01. ~ 2023. 02. / 2023. 04. ~ 2023. 06. ([CECOM](https://cecom.dev)) / 2023. 09. ~ 2023. 11. ([CECOM](https://cecom.dev))
-  - [Node.JS](https://yymin1022.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
-  - [Flutter](https://yymin1022.notion.site/Flutter-f1bf918f121b4367b5d3ccc61974c920?pvs=4) - 2024. 09. ~ 2024. 12. ([CECOM](https://cecom.dev))
+  - [React.JS](https://useful-min.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08. / 2023. 01. ~ 2023. 02. / 2023. 04. ~ 2023. 06. ([CECOM](https://cecom.dev)) / 2023. 09. ~ 2023. 11. ([CECOM](https://cecom.dev))
+  - [Node.JS](https://useful-min.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
+  - [Flutter](https://useful-min.notion.site/Flutter-f1bf918f121b4367b5d3ccc61974c920?pvs=4) - 2024. 09. ~ 2024. 12. ([CECOM](https://cecom.dev))
   - Python Basic - 2023. 01. ~ 2023. 02.
 - Group Study
-  - [HTTP](https://yymin1022.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
+  - [HTTP](https://useful-min.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
   - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
 
 ---
@@ -139,7 +140,7 @@
   Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
 - Watch : Google Pixel Watch with WearOS 5.0
 - Audio : Google Pixel Buds Pro / Sony WF-1000XM4 / / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
-- ...more on my [Notion](https://yymin1022.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
+- ...more on my [Notion](https://useful-min.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
 
