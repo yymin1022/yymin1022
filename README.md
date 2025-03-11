@@ -27,11 +27,11 @@
 ### History
 - [Geeks Loft](https://www.geeksloft.com/) - Android 개발 수습연구원 (2024. 07. ~ 2024. 08.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
-- [SKT DEVOCEAN](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동 수료 (2023. 03. ~ 2023. 11.)
+- [SKT DEVOCEAN YOUNG](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동 수료 (2023. 03. ~ 2023. 11.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 2nd(22-23) Core Member (2022. 09. ~ 2023. 06.)
 - 대한민국공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 병장 만기전역 (2020. 10. ~ 2022. 07.)
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 03. ~ 2024. 07.)
-- 중앙대학교 소프트웨어학부 (2019. 03. ~ 2025. 02.)
+- 중앙대학교 소프트웨어학부 졸업 (2019. 03. ~ 2025. 02.)
 - 서울 성보고등학교 과학중점학급 졸업 (2016. 03. ~ 2019. 02.)
 - 선린인터넷고등학교 정보영재교육원 수료 (2014. 03. ~ 2014. 12.)
 
