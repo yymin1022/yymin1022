@@ -125,21 +125,36 @@
 
 ---
 
-### Which device am I using?
-- Desktop : Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
-- Laptop : Main with Apple MacBook Pro 2023 / Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe / MacOS 14 Sonoma<br/>
-  Sub with LG Gram15 2019 / Intel Core i5-8265U / DDR4 8GB / 512GB NVMe + 256GB SATA / Hackintosh MacOS 12 Monterey
-- NAS : Main with ODroid H2 / Intel Celeron J4105 / DDR4 8GB / 16TB HDD + 4TB DAS / XPEnology DSM 7.2<br/>
-  Sub with Synology DS120j / Mavell Armada 3700 / DDR3L 512MB / 8TB HDD / Synology DSM 7.2
-- Infra Server : ODroid H2 / Intel Celeron J4105 / DDR4 16GB / 120GB SSD / ESXi 6.7.0
-- Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
-- Phone : Main with Google Pixel 8 Pro with Android 16<br/>
-  Sub with Samsung Galaxy Z Flip 3 with Android 15
-- Tablet : Apple iPad Pro 11" 2nd with iPadOS 26<br/>
-  Google Pixel Slate with Chrome OS<br/>
-  Cube iWork10 Ultimate with Windows10 + Android 6.0 Dual Boot
-- Watch : Google Pixel Watch with WearOS 5.1
-- Audio : Google Pixel Buds Pro / Sony WF-1000XM4 / / AME J1UR with Copper Custom Cable / Zishan Z4 DAP
+### Which devices am I using?
+- Desktop
+  - Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
+- Laptop
+  - Main : Apple MacBook Pro 2023 (Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe SSD / macOS 15 Sequoia)
+  - Sub : LG Gram15 2019 (Intel Core i5-8265U / DDR4 8GB / 512GB NVMe SSD + 256GB SATA SSD / Hackintosh macOS 12 Monterey)
+- NAS
+  - Main : ODroid H2 (Intel Celeron J4105 / DDR4 8GB / 16TB HDD + 4TB HDD DAS / XPEnology DSM 7.2)
+  - Backup : Qnap TS-228A (Realtek RTD1295 / DDR4 1GB / 12TB HDD / QTS 5.0)
+- Server
+  - Infra Server : ODroid H2 (Intel Celeron J4105 / DDR4 16GB / 128GB NVMe SSD / ESXi 6.7.0)
+  - Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7.0
+  - Utility Server : Intel Xeon E3-1225v3 / DDR3 8GB / 120GB SATA SSD / ESXi 6.7.0
+- Phone
+  - Main : Google Pixel 8 Pro (Android 16)
+  - Sub : Samsung Galaxy Z Flip 3 (Android 15)
+  - Android Dev : Google Pixel 6 Pro (Android 16)
+  - iOS Dev : Apple iPhone 11 (iOS 26)
+- Tablet
+  - Apple iPad Pro 11" 2nd (iPadOS 26)
+  - Google Pixel Slate (Chrome OS)
+  - Samsung Galaxy Tab A7 Lite (Android 14)
+  - Cube iWork10 Ultimate (Android 6.0 + Windows 10 Dual)
+- Watch
+  - Google Pixel Watch (WearOS 5.1)
+- Audio
+  - Google Pixel Buds Pro
+  - Sony WF-1000XM4
+  - AME J1UR w/ Custom Cable
+  - Zishan Z4 DAP
 - ...more on my [Notion](https://useful-min.notion.site/Devices-929b30ee449644bfa501ec64852d3790)
 
 ---
