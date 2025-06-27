@@ -38,13 +38,19 @@
 ---
 
 ### Awards
-- 2017 STEAM R&E 한국과학창의재단 이사장상 : 보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안 / [상세보기](https://steam.kofac.re.kr/?p=11978) / [소스코드](https://github.com/yymin1022/Pedetector)
-- 2017 서울시 앱공모전 예선 당선 : 너 왜 거기있어 - 분실물 조회 서비스 / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
-- 2019 스마트서울 모바일 앱공모전 장려상 : Soul Rest - 서울에서 소울을 힐링하다 / [소스코드](https://github.com/yymin1022/SeoulHealing)
+- 2017 STEAM R&E 한국과학창의재단 이사장상 : [보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안](https://github.com/yymin1022/Pedetector)
+  - 팀장 / Android 개발 / Arduino 개발 담당
+- 2017 서울시 앱공모전 예선 당선 : [너 왜 거기있어 - 분실물 조회 서비스](https://github.com/yymin1022/WhyAreYouHere)
+  - Android 개발 담당
+- 2019 스마트서울 모바일 앱공모전 장려상 : [Soul Rest - 서울에서 소울을 힐링하다](https://github.com/yymin1022/SeoulHealing)
+  - 팀장 / Android 개발 담당
 - 2021 대한민국 공군 ROKAF 사이버전사 경연대회 10등 / 75명
 - 2022 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : BeIoT - 비 IoT 가전의 상태 모니터링을 위한 통합 환경 개발
-- 2024 중앙대학교 LINC+ 캡스톤디자인 경진대회 SW부문 우수상 : PEEPER - 실시간 음성통화 분석을 통한 보이스피싱 탐지 및 알림 서비스 / [상세보기](https://github.com/orgs/Peeper-CAU)
-- 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : AquaMonitor - 수분 섭취량 측정 모듈러 코스터
+  - HomeAssistant 리눅스 서버 담당
+- 2024 중앙대학교 LINC+ 캡스톤디자인 경진대회 SW부문 우수상 : [PEEPER - 실시간 음성통화 분석을 통한 보이스피싱 탐지 및 알림 서비스](https://github.com/orgs/Peeper-CAU)
+  - 팀장 / Android 개발 / ESP32 임베디드 개발 담당
+- 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : [AquaMonitor - 수분 섭취량 측정 모듈러 코스터](https://github.com/yymin1022/AquaMonitor_Android)
+  - Android 개발 담당
 
 ---
 
@@ -57,13 +63,18 @@
 
 ### Mentoring / Study
 - Mentoring Lead
-  - [React.JS](https://useful-min.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455) - 2022. 07. ~ 2022. 08. / 2023. 01. ~ 2023. 02. / 2023. 04. ~ 2023. 06. ([CECOM](https://cecom.dev)) / 2023. 09. ~ 2023. 11. ([CECOM](https://cecom.dev))
-  - [Node.JS](https://useful-min.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467) - 2023. 01.
-  - [Flutter](https://useful-min.notion.site/Flutter-f1bf918f121b4367b5d3ccc61974c920?pvs=4) - 2024. 09. ~ 2024. 12. ([CECOM](https://cecom.dev))
-  - Python Basic - 2023. 01. ~ 2023. 02.
+  - [React.JS](https://useful-min.notion.site/React-JS-c74eecc8cdf64cafa09def45e0534455)
+    - 학과 동기 및 지인 대상 2022. 07. ~ 2022. 08. / 2023. 01. ~ 2023. 02.
+    - [CECOM](https://cecom.dev) 동아리 부원 대상 2023. 04. ~ 2023. 06. / 2023. 09. ~ 2023. 11.
+  - [Node.JS](https://useful-min.notion.site/Node-JS-051ed229c8244dceb4a9b16a51a51467)
+    - 학과 동기 및 후배 대상 2023. 01.
+  - [Flutter](https://useful-min.notion.site/Flutter-f1bf918f121b4367b5d3ccc61974c920?pvs=4)
+    - [CECOM](https://cecom.dev) 동아리 부원 대상 2024. 09. ~ 2024. 12.
 - Group Study
-  - [HTTP](https://useful-min.notion.site/HTTP-7bf78490abda471aa689e737f1d53290) with [Treeger](https://github.com/Team-Treeger) - 2022. 05. ~ Ongoing
-  - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study) with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ Ongoing
+  - [HTTP](https://useful-min.notion.site/HTTP-7bf78490abda471aa689e737f1d53290)
+    - with [Treeger](https://github.com/Team-Treeger) - 2022. 05.
+  - [BOJ Algorithm](https://github.com/yymin1022/Algorithm_Study)
+    - with [Def:Con](https://github.com/DefCon-Apps) - 2022. 06. ~ 2025. 04.
 
 ---
 
