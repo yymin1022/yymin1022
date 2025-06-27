@@ -81,58 +81,60 @@
 ### What can I do?
 - Android : Application / Kernel Build / OS Build / Smali Porting
 - C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / C++ QT GUI
-- CI / CD : Build & Release Automation based on Jenkins
-- Docker : Container Build & Release / Server Management
-- Flutter : Android Application / iOS Application / Mac Application / Web / Windows Program
+- CI / CD : Jenkins Build & Release Automation
+- Docker : [Container Build & Release](https://hub.docker.com/repositories/yymin1022) / Server Management
+- Flutter : Android / iOS / Mac / Web / Windows Cross-Platform Application
 - Java / Kotlin : Android Application / Console / Swing GUI
 - Linux : Kernel Build / Server Management / System Management
 - Next.JS : SPA SSR Web Page (JS / TS)
 - Node.JS : Express Server (JS / TS) / Anything based on NPM
 - Python : Console / Discord Bot / Flask Server / QT GUI / Telegram Bot
-- React.JS : SPA CSR Web Page (JS / TS)
 - Web : HTML (But it is not Programming) / JS / Next.JS / Node.JS / php / Python Flask / React.JS / Restful API
 
 ---
 
-### Developed Applications
-- Always On Display / [상세보기](https://play.google.com/store/apps/details?id=com.yong.aod) / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
-- Taxi Meter / [상세보기](https://play.google.com/store/apps/details?id=com.yong.taximeter) / [소스코드](https://github.com/yymin1022/TaxiMeter)
+### Android Projects
+- [Always On Display](https://github.com/yymin1022/AlwaysOnDisplay)
+  - [Google Play](https://play.google.com/store/apps/details?id=com.yong.aod)
+  - 2016년 출시 후 2020년 20만+ 다운로드 기록
+- [Taxi Meter (2023 Legacy)](https://github.com/yymin1022/TaxiMeter)
+  - [Google Play](https://play.google.com/store/apps/details?id=com.yong.taximeter)
+  - 2019년 출시 후 2024년 Android 25만+ 다운로드 기록. 2024년 Flutter 기반 리팩토링으로 iOS 출시 및 동시 관리 중
+- [중앙대학교 서울캠퍼스 107관(학생회관) 건물안내 키오스크](https://github.com/yymin1022/CAUKiosk_107)
+- [중앙대학교 서울캠퍼스 310관(경영경제관) 건물안내 키오스크](https://github.com/yymin1022/CAUKiosk_310)
+  - 2020년 중앙대학교 동아리연합회 & 경영경제대학 제의로 개발 후 유지보수 중
+- [Screen Saver](https://github.com/yymin1022/ScreenSaver)
+  - 2017년 출시 후 2017년 1만 다운로드 기록. Android API 제약으로 2018년 배포 중단
 
 ---
 
-### Developed Web Pages
-- [CECOM](https://cecom.dev) - Next.JS
-- [Def:Con](https://defcon.or.kr) - Next.JS
+### Flutter Projects
+- [Taxi Meter Flutter](https://github.com/yymin1022/TaxiMeter_Flutter)
+  - [Google Play](https://play.google.com/store/apps/details?id=com.yong.taximeter)
+  - [Apple Appstore](https://apps.apple.com/kr/app/%ED%83%9D%EC%8B%9C%EB%AF%B8%ED%84%B0%EA%B8%B0/id6624311119)
+
+### Web Projects
+- [CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리](https://cecom.dev) - Next.JS
+- [Def:Con - 대학생 프로그래밍 팀](https://defcon.or.kr) - Next.JS
 - [Dev. LR Blog](https://dev-lr.com) - React.JS(Front-End) / Node.JS(Back-End)
 
 ---
 
 ### Other Projects
-- Android - 중앙대학교 서울캠퍼스 107관(학생회관), 310관(경영경제관) 건물안내 키오스크 / [소스코드](https://github.com/yymin1022/CAUKiosk_107)
-- Android - Always On Display / [소스코드](https://github.com/yymin1022/AlwaysOnDisplay)
-- Android - Screen Saver / [소스코드](https://github.com/yymin1022/ScreenSaver)
-- Android - Soul Rest / [소스코드](https://github.com/yymin1022/SeoulHealing)
-- Android - Taxi Meter / [소스코드](https://github.com/yymin1022/TaxiMeter)
-- Android - Why Are You Here / [소스코드](https://github.com/yymin1022/WhyAreYouHere)
-- Android Porting - LG G5 Launcher / [소스코드](https://github.com/yymin1022/G5_Launcher)
-- Android Porting - LG G5 Live Wallpaper / [소스코드](https://github.com/yymin1022/G5_LiveWallpapers)
-- Android Porting - Pantech IM-100 Keyboard / [소스코드](https://github.com/yymin1022/IM-100_Keyboard)
-- Android Porting - Pantech IM-100 MusicPlayer / [소스코드](https://github.com/yymin1022/IM-100_Music)
-- Arduino && Android - Pedetector / [소스코드](https://github.com/yymin1022/Pedetector)
-- Arduino && Android - RemoteFinder / [소스코드](https://github.com/yymin1022/RemoteFinder)
-- Java - STONE Manager for Windows / [소스코드](https://github.com/yymin1022/StoneManager_JAVA)
-- Javascript - KakaoTalk Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_KakaoTalk)
-- Next.JS - CECOM Web / [소스코드](https://github.com/CECOM-CAU/CECOM_Web)
-- Next.JS - Def:Con Web Front-End / [소스코드](https://github.com/DefCon-Apps/DefCon-FE)
-- Node.JS - Def:Con Web Back-End / [소스코드](https://github.com/DefCon-Apps/DefCon-BE)
-- Node.JS - Dev. LR Blog Back-End / [소스코드](https://github.com/yymin1022/Blog_LR_Back)
-- Python - Discord Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Discord)
-- Python - Synology DownloadStation Client / [소스코드](https://github.com/yymin1022/Synology_DownloadStation_Client)
-- Python - Telegram Chat Bot with Wa... / [소스코드](https://github.com/yymin1022/Wa_Bot_Telegram)
-- Python - Telegram Chat Bot for Kakao Emoticon to Telegram Sticker Converter / [소스코드](https://github.com/yymin1022/KakaoEmoticon2TelegramSticker)
-- Python Flask - Wa... API Server / [소스코드](https://github.com/yymin1022/Wa_API)
-- React.JS - Dev. LR Blog Front-End / [소스코드](https://github.com/yymin1022/Blog_LR_Front)
-- ...more on my [Github](https://github.com/yymin1022)
+- Arduino && Android
+  - [Pedetector](https://github.com/yymin1022/Pedetector) : 보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선 방안
+  - [RemoteFinder](https://github.com/yymin1022/RemoteFinder) : BLE 기반의 분실물 스마트 트래커 솔루션
+- Java
+  - [STONE Manager for Windows](https://github.com/yymin1022/StoneManager_JAVA) : Swing GUI - 제조사가 유지보수하지 않는 무드등 블루투스 스피커의 설정 변경 프로그램
+- Javascript
+  - [Wa.. 카카오톡 챗봇](https://github.com/yymin1022/Wa_Bot_KakaoTalk) : [Wa.. API](https://github.com/yymin1022/Wa_API) 기반 카카오톡 챗봇
+- Python
+  - [Wa.. 디스코드 챗봇](https://github.com/yymin1022/Wa_Bot_Discord) : [Wa.. API](https://github.com/yymin1022/Wa_API) 기반 디스코드 챗봇
+  - [Wa.. 텔레그램 챗봇](https://github.com/yymin1022/Wa_Bot_Telegram) : [Wa.. API](https://github.com/yymin1022/Wa_API) 기반 텔레그램 챗봇
+  - [Wa.. API](https://github.com/yymin1022/Wa_API) : FastAPI, Gemini API - 다양한 채팅에 반응하는 응답을 생성해주는 API 서버
+  - [텔레그램 스티커 변환 챗봇](https://github.com/yymin1022/KakaoEmoticon2TelegramSticker) : 카카오톡 이모티콘을 텔레그램 스티커팩으로 변환해주는 챗봇
+  - [Synology DownloadStation Client](https://github.com/yymin1022/Synology_DownloadStation_Client) : QT GUI - Synology NAS의 DownloadStation 기능을 편리하게 사용하기 위한 프로그램
+- ...more on my [Github](https://github.com/yymin1022?tab=repositories)
 
 ---
 
