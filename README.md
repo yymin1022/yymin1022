@@ -79,17 +79,39 @@
 ---
 
 ### What can I do?
-- Android : Application / Kernel Build / OS Build / Smali Porting
-- C / C++ : [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study) / Console / C++ QT GUI
-- CI / CD : Jenkins Build & Release Automation
-- Docker : [Container Build & Release](https://hub.docker.com/repositories/yymin1022) / Server Management
-- Flutter : Android / iOS / Mac / Web / Windows Cross-Platform Application
-- Java / Kotlin : Android Application / Console / Swing GUI
-- Linux : Kernel Build / Server Management / System Management
-- Next.JS : SPA SSR Web Page (JS / TS)
-- Node.JS : Express Server (JS / TS) / Anything based on NPM
-- Python : Console / Discord Bot / Flask Server / QT GUI / Telegram Bot
-- Web : HTML (But it is not Programming) / JS / Next.JS / Node.JS / php / Python Flask / React.JS / Restful API
+- Android
+  - Application
+  - Kernel / OS Build
+  - Decompile / Smali Analyzing
+- C / C++
+  - [Algorithm Problem Solving](https://github.com/yymin1022/Algorithm_Study)
+  - Arduino / Console / QT GUI
+  - Java JNI
+- CI / CD
+  - Jenkins Build & Release Automation
+- Docker
+  - [Container Build & Release](https://hub.docker.com/repositories/yymin1022)
+  - Server Management
+- Flutter
+  - Android / iOS / Mac / Web / Windows Cross-Platform Application
+- Java / Kotlin
+  - Android Application
+  - Console / Swing GUI
+- Javascript / Typescript
+  - Chrome Extension
+  - Next.JS - SPA SSR Web (JS / TS)
+  - Node.JS - Express Server (JS / TS)
+- Linux
+  - Kernel Build
+  - Server / System Management
+- Python
+  - Discord / Telegram Bot
+  - FastAPI /Flask Server
+  - Console / QT GUI / Tkinter GUI
+- Web
+   - Pure HTML (But it is not Programming)
+   - Next.JS / Node.JS / React.JS
+   - Anything with Restful API
 
 ---
 
