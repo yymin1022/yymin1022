@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=26&fontAlignY=35&desc=1인%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=Dev.%20LR&fontColor=FFFFFF&fontAlign=26&fontAlignY=35&desc=T자형%20인재가%20되고싶은%201인%20개발자&descSize=20&descAlign=28&descAlignY=58&animation=twinkling)](https://github.com/yymin1022)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yymin1022&theme=tokyonight_duo)](https://github.com/yymin1022)
 
@@ -16,7 +16,7 @@
 
 ### Who am I?
 - 다양한 분야에 발을 걸친 T자형 인재가 되고싶은 1인 개발자
-- [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) VLLO Android 개발자 (2025. 01. ~ )
+- [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) [나의 첫 동영상 편집기, VLLO](https://play.google.com/store/apps/details?id=com.darinsoft.vimo) Android 개발자 (2025. 01. ~ )
 - [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 03. ~ )
 - [Blog (Dev)](https://dev-lr.com) / [Blog (Life)](https://blog.naver.com/yymin1022)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016. 06. ~ )
