@@ -135,6 +135,8 @@
   - [Google Play](https://play.google.com/store/apps/details?id=com.yong.taximeter)
   - [Apple Appstore](https://apps.apple.com/kr/app/%ED%83%9D%EC%8B%9C%EB%AF%B8%ED%84%B0%EA%B8%B0/id6624311119)
 
+---
+
 ### Web Projects
 - [CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리](https://cecom.dev) - Next.JS
 - [Def:Con - 대학생 프로그래밍 팀](https://defcon.or.kr) - Next.JS
