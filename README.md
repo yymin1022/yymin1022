@@ -38,18 +38,24 @@
 ---
 
 ### Awards
-- 2017 STEAM R&E 한국과학창의재단 이사장상 : [보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안](https://github.com/yymin1022/Pedetector)
+- 2017 STEAM R&E 한국과학창의재단 이사장상
+  - [보행자의 안전성을 고려하며 IT기술을 활용한 신호등 개선방안](https://github.com/yymin1022/Pedetector)
   - 팀장 / Android 개발 / Arduino 개발 담당
-- 2017 서울시 앱공모전 예선 당선 : [너 왜 거기있어 - 분실물 조회 서비스](https://github.com/yymin1022/WhyAreYouHere)
+- 2017 서울시 앱공모전 예선 당선
+  - [너 왜 거기있어 - 분실물 조회 서비스](https://github.com/yymin1022/WhyAreYouHere)
   - Android 개발 담당
-- 2019 스마트서울 모바일 앱공모전 장려상 : [Soul Rest - 서울에서 소울을 힐링하다](https://github.com/yymin1022/SeoulHealing)
+- 2019 스마트서울 모바일 앱공모전 장려상
+  - [Soul Rest - 서울에서 소울을 힐링하다](https://github.com/yymin1022/SeoulHealing)
   - 팀장 / Android 개발 담당
 - 2021 대한민국 공군 ROKAF 사이버전사 경연대회 10등 / 75명
-- 2022 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : BeIoT - 비 IoT 가전의 상태 모니터링을 위한 통합 환경 개발
+- 2022 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상
+  - BeIoT - 비 IoT 가전의 상태 모니터링을 위한 통합 환경 개발
   - HomeAssistant 리눅스 서버 담당
-- 2024 중앙대학교 LINC+ 캡스톤디자인 경진대회 SW부문 우수상 : [PEEPER - 실시간 음성통화 분석을 통한 보이스피싱 탐지 및 알림 서비스](https://github.com/orgs/Peeper-CAU)
+- 2024 중앙대학교 LINC+ 캡스톤디자인 경진대회 SW부문 우수상
+  - [PEEPER - 실시간 음성통화 분석을 통한 보이스피싱 탐지 및 알림 서비스](https://github.com/orgs/Peeper-CAU)
   - 팀장 / Android 개발 / ESP32 임베디드 개발 담당
-- 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상 : [AquaMonitor - 수분 섭취량 측정 모듈러 코스터](https://github.com/yymin1022/AquaMonitor_Android)
+- 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상
+  - [AquaMonitor - 수분 섭취량 측정 모듈러 코스터](https://github.com/yymin1022/AquaMonitor_Android)
   - Android 개발 담당
 
 ---
