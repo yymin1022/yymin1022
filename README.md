@@ -17,7 +17,7 @@
 ### Who am I?
 - 다양한 분야에 발을 걸친 T자형 인재가 되고싶은 1인 개발자
 - [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) [나의 첫 동영상 편집기, VLLO](https://play.google.com/store/apps/details?id=com.darinsoft.vimo) Android 개발자 (2025. 01. ~ )
-- [42Seoul](https://42seoul.kr) 9기 Cadet (2023. 03. ~ )
+- [42Seoul](https://42seoul.kr) Transcender 심화과정 (2025. 07. ~ )
 - [Blog (Dev)](https://dev-lr.com) / [Blog (Life)](https://blog.naver.com/yymin1022)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016. 06. ~ )
 - [GDG on Campus CAU](https://gdsc-cau.com) - Google Developer Groups on Campus Chung-Ang University 4th(24-25) DevRel Team Member (2024. 09. ~ )
@@ -27,6 +27,7 @@
 ### History
 - [Geeks Loft](https://www.geeksloft.com/) - Android 개발 수습연구원 (2024. 07. ~ 2024. 08.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
+- [42Seoul](https://42seoul.kr) 9기 Cadet 공통과정 수료 (2023. 03. ~ 2025. 07.)
 - [SKT DEVOCEAN YOUNG](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동자 수료 (2023. 03. ~ 2023. 11.)
 - [GDSC CAU](https://gdsc-cau.com) - Google Developer Student Clubs Chung-Ang University 2nd(22-23) Core Member (2022. 09. ~ 2023. 06.)
 - 대한민국공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 병장 만기전역 (2020. 10. ~ 2022. 07.)
