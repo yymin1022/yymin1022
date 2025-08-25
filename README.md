@@ -113,7 +113,7 @@
   - Server / System Management
 - Python
   - Discord / Telegram Bot
-  - FastAPI /Flask Server
+  - FastAPI / Flask Server
   - Console / QT GUI / Tkinter GUI
 - Web
    - Pure HTML (But it is not Programming)
