@@ -159,6 +159,8 @@
   - [STONE Manager for Windows](https://github.com/yymin1022/StoneManager_JAVA) : Swing GUI - 제조사가 유지보수하지 않는 무드등 블루투스 스피커의 설정 변경 프로그램
 - Javascript
   - [Wa.. 카카오톡 챗봇](https://github.com/yymin1022/Wa_Bot_KakaoTalk) : [Wa.. API](https://github.com/yymin1022/Wa_API) 기반 카카오톡 챗봇
+- Linux
+  - [CECOM4CUT](https://github.com/yymin1022/CECOM4CUT) : Raspberry Pi 기반 영수증 포토부스 프로젝트
 - Python
   - [Wa.. 디스코드 챗봇](https://github.com/yymin1022/Wa_Bot_Discord) : [Wa.. API](https://github.com/yymin1022/Wa_API) 기반 디스코드 챗봇
   - [Wa.. 텔레그램 챗봇](https://github.com/yymin1022/Wa_Bot_Telegram) : [Wa.. API](https://github.com/yymin1022/Wa_API) 기반 텔레그램 챗봇
