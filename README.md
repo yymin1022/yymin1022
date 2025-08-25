@@ -167,7 +167,7 @@
   - [Wa.. API](https://github.com/yymin1022/Wa_API) : FastAPI, Gemini API - 다양한 채팅에 반응하는 응답을 생성해주는 API 서버
   - [텔레그램 스티커 변환 챗봇](https://github.com/yymin1022/KakaoEmoticon2TelegramSticker) : 카카오톡 이모티콘을 텔레그램 스티커팩으로 변환해주는 챗봇
   - [Synology DownloadStation Client](https://github.com/yymin1022/Synology_DownloadStation_Client) : QT GUI - Synology NAS의 DownloadStation 기능을 편리하게 사용하기 위한 프로그램
-- ...more on my [Github](https://github.com/yymin1022?tab=repositories)
+- ...more on my [GitHub](https://github.com/yymin1022?tab=repositories)
 
 ---
 
@@ -206,7 +206,7 @@
 ---
 
 ### Contact Me Online
-- [Github](https://github.com/yymin1022)
+- [GitHub](https://github.com/yymin1022)
 - [Google Play](https://play.google.com/store/apps/developer?id=Dev.+LR)
 - [Instagram](https://instagram.com/useful_min)
 - [KakaoTalk](https://open.kakao.com/o/sr5Chgse)
