@@ -195,7 +195,7 @@
   - Samsung Galaxy Tab A7 Lite (Android 14)
   - Cube iWork10 Ultimate (Android 6.0 + Windows 10 Dual)
 - Watch
-  - Google Pixel Watch (WearOS 5.1)
+  - Google Pixel Watch (WearOS 5)
 - Audio
   - Google Pixel Buds Pro
   - Sony WF-1000XM4
