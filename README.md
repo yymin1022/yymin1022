@@ -177,7 +177,7 @@
   - Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop
   - Main : Apple MacBook Pro 2023 (Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe SSD / macOS 15 Sequoia)
-  - Sub : LG Gram15 2019 (Intel Core i5-8265U / DDR4 8GB / 512GB NVMe SSD + 256GB SATA SSD / Hackintosh macOS 12 Monterey)
+  - Sub : LG Gram15 2019 (Intel Core i5-8265U / DDR4 16GB / 512GB NVMe SSD + 256GB SATA SSD / Hackintosh macOS 12 Monterey)
 - NAS
   - Main : ODroid H2 (Intel Celeron J4105 / DDR4 8GB / 16TB HDD + 4TB HDD DAS / XPEnology DSM 7)
   - Backup : Qnap TS-228A (Realtek RTD1295 / DDR4 1GB / 12TB HDD / QTS 5)
