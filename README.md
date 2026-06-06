@@ -181,5 +181,3 @@
 - [Google Play](https://play.google.com/store/apps/developer?id=Dev.+LR)
 - [Instagram](https://instagram.com/useful_min)
 - [LinkedIn](https://www.linkedin.com/in/yymin1022)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yymin1022&bg_color=00000000)
