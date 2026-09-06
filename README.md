@@ -18,12 +18,13 @@
 ---
 
 ### History
-- [GDG on Campus CAU](https://gdgoc-cau.com) - Google Developer Groups on Campus Chung-Ang University 4th(24-25) DevRel Team Member (2024. 09. ~ 2025. 07.)
+
+- [GDG on Campus CAU](https://gdgoc-cau.com) - 24-25 (4th) DevRel Team Member (2024. 09. ~ 2025. 07.)
 - [GeeksLoft](https://www.geeksloft.com/) - Perisphere Android 개발 수습연구원 인턴 (2024. 07. ~ 2024. 08.)
-- [GDSC CAU](https://gdgoc-cau.com) - Google Developer Student Clubs Chung-Ang University 3rd(23-24) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
+- [GDSC CAU](https://gdgoc-cau.com) - 23-24 (3rd) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
 - [42Seoul](https://42seoul.kr) 9기 Cadet 공통과정 수료 (2023. 03. ~ 2025. 07.)
 - [SKT DEVOCEAN YOUNG](https://devocean.sk.com) - 대학생 테크인플루언서 DEVOCEAN YOUNG 2기 우수활동자 수료 (2023. 03. ~ 2023. 11.)
-- [GDSC CAU](https://gdgoc-cau.com) - Google Developer Student Clubs Chung-Ang University 2nd(22-23) Core Member (2022. 09. ~ 2023. 06.)
+- [GDSC CAU](https://gdgoc-cau.com) - 22-23 (2nd) Core Member (2022. 09. ~ 2023. 06.)
 - 대한민국공군 ROKAF 병 819기 정보체계관리(30010) SCM 체계운영병 / MCC 정비통제병 병장 만기전역 (2020. 10. ~ 2022. 07.)
 - 중앙대학교 소프트웨어학부 졸업 (2019. 03. ~ 2025. 02.)
 - [CECOM](https://cecom.dev) - 중앙대학교 컴퓨터 하드웨어 중앙동아리 운영진 (2019. 03. ~ 2024. 07.)
