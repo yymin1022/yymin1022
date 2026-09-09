@@ -56,8 +56,6 @@
   - [너 왜 거기있어 - 분실물 조회 서비스](https://github.com/yymin1022/WhyAreYouHere)
   - Android 개발 담당
 
----
-
 ### Certificate
 - TOPCIT 소프트웨어 역량 검정 Level 3 (2023. 06.)
 - KAIT 국가공인 리눅스마스터 2급 (2022. 10.)
