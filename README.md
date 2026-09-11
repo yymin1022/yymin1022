@@ -12,7 +12,7 @@
 - 다양한 분야에 발을 걸친 T자형 인재가 되고싶은 1인 개발자
 - [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) - [나의 첫 동영상 편집기, VLLO](https://play.google.com/store/apps/details?id=com.darinsoft.vimo) Android 개발자 (2025. 01. ~ )
 - [42Seoul](https://42seoul.kr) - Transcender 심화과정 (2025. 07. ~ )
-- [Blog (Dev)](https://dev-lr.com) / [Blog (Life)](https://blog.naver.com/yymin1022)
+- [Blog (Dev)](https://useful-min.dev) / [Blog (Life)](https://blog.naver.com/yymin1022)
 - [Def:Con](https://defcon.or.kr) - 대학생 프로그래밍 팀 Leader (2016. 06. ~ )
 
 ---
@@ -120,7 +120,7 @@
 
 - [CECOM - 중앙대학교 컴퓨터 하드웨어 중앙동아리](https://cecom.dev) - Next.JS
 - [Def:Con - 대학생 프로그래밍 팀](https://defcon.or.kr) - Next.JS
-- [Dev. LR Blog](https://dev-lr.com) - Next.JS
+- [Useful Blog](https://useful-min.dev) - Next.JS
 
 ### Other Projects
 
