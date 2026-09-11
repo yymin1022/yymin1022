@@ -9,6 +9,7 @@
 ---
 
 ### Who am I?
+
 - 다양한 분야에 발을 걸친 T자형 인재가 되고싶은 1인 개발자
 - [VIMOSOFT](https://www.linkedin.com/company/%EB%B9%84%EB%AA%A8%EC%86%8C%ED%94%84%ED%8A%B8/) - [나의 첫 동영상 편집기, VLLO](https://play.google.com/store/apps/details?id=com.darinsoft.vimo) Android 개발자 (2025. 01. ~ )
 - [42Seoul](https://42seoul.kr) - Transcender 심화과정 (2025. 07. ~ )
@@ -37,6 +38,7 @@
 ---
 
 ### Awards
+
 - 2024 중앙대학교 공학교육혁신센터 캡스톤 디자인 경진대회(CDIC) 아이디어 평가회 우수상
   - [AquaMonitor - 수분 섭취량 측정 모듈러 코스터](https://github.com/yymin1022/AquaMonitor_Android)
   - Android 개발 담당
@@ -57,6 +59,7 @@
   - Android 개발 담당
 
 ### Certificate
+
 - TOPCIT 소프트웨어 역량 검정 Level 3 (2023. 06.)
 - KAIT 국가공인 리눅스마스터 2급 (2022. 10.)
 - Google Cloud Skill Boost : Kubernetes Solutions (2022. 10.)
@@ -64,6 +67,7 @@
 ---
 
 ### What can I do?
+
 - Android
   - Application
   - Kernel / OS Build
@@ -137,6 +141,7 @@
 ---
 
 ### Which devices am I using?
+
 - Desktop
   - Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop
@@ -166,6 +171,7 @@
 ---
 
 ### Contact Me Online
+
 - [GitHub](https://github.com/yymin1022)
 - [Google Play](https://play.google.com/store/apps/developer?id=Dev.+LR)
 - [Instagram](https://instagram.com/useful_min)
