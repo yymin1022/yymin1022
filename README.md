@@ -115,7 +115,7 @@
   - 모든 기기에서 Always On Display 기능을 구현한 프로젝트. 20만+ 다운로드 기록
   - 2016년 Android 출시
   - [Google Play](https://play.google.com/store/apps/details?id=com.yong.aod)
-- 중앙대학교 서울캠퍼스 107관 / 310관 건물안내 키오스크
+- 중앙대학교 서울캠퍼스 107관 / 310관 건물안내 키오스크 (Android)
   - 2020년 중앙대학교 동아리연합회 & 경영경제대학 제의로 개발 및 설치
   - [107관(학생회관)](https://github.com/yymin1022/CAUKiosk_107)
   - [310관(경영경제관)](https://github.com/yymin1022/CAUKiosk_310)
