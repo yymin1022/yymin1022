@@ -143,9 +143,9 @@
 ### Which devices am I using?
 
 - Desktop
-  - Intel Core i5-12600K / DDR4 32GB / 512GB NVMe + 1TB HDD + 500GB HDD / Windows 11
+  - Intel Core i5-12600K / DDR4 32GB / 1TB NVMe + 1TB HDD + 500GB HDD / Windows 11
 - Laptop
-  - Apple MacBook Pro 2023 (Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe SSD / macOS 26 Tahoe)
+  - Apple MacBook Pro 2023 (Apple Silicon M2 Pro / LPDDR5 16GB / 512GB NVMe SSD / macOS 27 GoldenGate)
 - NAS
   - Main : ODroid H2 (Intel Celeron J4105 / DDR4 8GB / 16TB HDD + 4TB HDD DAS / XPEnology DSM 7)
   - Backup : Qnap TS-228A (Realtek RTD1295 / DDR4 1GB / 12TB HDD / QTS 5)
@@ -154,14 +154,14 @@
   - Service Server : Intel Celeron J4125 / DDR4 32GB / 250GB SATA SSD / ESXi 6.7
   - Utility Server : Intel Xeon E3-1225v3 / DDR3 8GB / 120GB SATA SSD / ESXi 6.7
 - Phone
-  - Main : Samsung Galaxy S25 Ultra (Android 16)
+  - Main : Samsung Galaxy S25 Ultra (Android 17)
   - Android Dev : Nothing Phone (2) (Android 16) / Motorola Moto G 2025 (Android 16)
-  - iOS Dev : Apple iPhone 13 (iOS 26) / Apple iPhone 12 mini (iOS 26)
+  - iOS Dev : Apple iPhone 13 (iOS 27) / Apple iPhone 12 mini (iOS 27)
 - Tablet
   - Alldocube iPlay 60 mini pro (Android 15)
   - Google Pixel Slate (Chrome OS)
 - Watch
-  - Google Pixel Watch 3 (WearOS 6.1)
+  - Google Pixel Watch 3 (WearOS 7)
 - Audio
   - Nothing Ear (2024)
   - AME J1UR w/ Custom Cable
