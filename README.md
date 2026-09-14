@@ -18,7 +18,7 @@
 
 ---
 
-### Work & Education
+### Work & Education History
 
 - [GeeksLoft](https://www.geeksloft.com/) - Perisphere Android 개발 수습연구원 인턴 (2024. 07. ~ 2024. 08.)
 - [42Seoul](https://42seoul.kr) 9기 Cadet 공통과정 수료 (2023. 03. ~ 2025. 07.)
@@ -27,7 +27,7 @@
 - 서울 성보고등학교 과학중점학급 졸업 (2016. 03. ~ 2019. 02.)
 - 서울 선린인터넷고등학교 정보영재교육원 수료 (2014. 03. ~ 2014. 12.)
 
-### Activities
+### Activities History
 
 - [GDG on Campus CAU](https://gdgoc-cau.com) - 24-25 (4th) DevRel Team Member (2024. 09. ~ 2025. 07.)
 - [GDSC CAU](https://gdgoc-cau.com) - 23-24 (3rd) Lead - Excellent Completion (2023. 09. ~ 2024. 06.)
